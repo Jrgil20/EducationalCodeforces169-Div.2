@@ -1,4 +1,11 @@
-# Description: Given a list of n integers, determine if it is possible to obtain a strictly increasing sequence by removing no more than one element from the list.
+# Problem: A. Closest Point
+# Link: https://codeforces.com/contest/2004/problem/A
+# When : Nov/08/2024 18:53UTC-4
+# Who: Jrg20
+# Verdict: Accepted
+# time: 62 ms
+# Memory: 0 KB
+
 
 cases = int(input())
 
