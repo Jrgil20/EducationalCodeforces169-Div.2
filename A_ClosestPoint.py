@@ -15,7 +15,7 @@ for _ in range(cases):
     numeros = cadena.split()[:n]
     numeros = [int(x) for x in numeros]
     if n == 2:
-        if (numeros[1] + 1 == numeros[0]) or (numeros[1] - 1 == numeros[0]) or (numeros[1] == numeros[0]):
+        if (numeros[0] + 1 == numeros[1]):
             print("NO")
         else:
             print("YES")
